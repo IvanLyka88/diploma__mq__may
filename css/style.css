@@ -1185,8 +1185,8 @@
         display: flex;
     }
 
-    .title__aside {
-        font-size: 1em;
+    .name__aside {
+        font-size: 16px;
     }
 
     .teg__block {
@@ -1204,6 +1204,10 @@
 
     .sidebar__link {
         font-size: 1em;
+    }
+
+    .mailing {
+        font-size: 16px;
     }
 
     .teg-music,
@@ -1225,6 +1229,10 @@
     .teg-travel {
         margin-top: 6px;
         margin-bottom: 6px;
+    }
+
+    .name__theme {
+        font-size: 16px;
     }
 
     .teg__list__item {
@@ -1293,7 +1301,19 @@
         width: 273px;
     }
 
+    .name__aside {
+    font-size: 16px;
+    }
+
     .sidebar__name__card {
+        font-size: 16px;
+    }
+
+    .sidebar__title {
+        font-size: 19px;
+    }
+
+    .mailing {
         font-size: 16px;
     }
 
@@ -1339,6 +1359,10 @@
     }
 
     .teg__list__item {
+        font-size: 16px;
+    }
+
+    .name__theme {
         font-size: 16px;
     }
 
