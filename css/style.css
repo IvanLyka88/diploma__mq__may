@@ -31,7 +31,7 @@
     background-size: cover;
     background-color: #000000;
 
-    min-width: 360px;
+    /*min-width: 320px;*/
     width: 100%;
 
     display: flex;
@@ -154,8 +154,7 @@
     left: 0;
     top: 50%;
 }
-
-@media (min-width: 360px) and (max-width: 767px) {
+@media (min-width: 320px) and (max-width: 767px) {
     .header {
         padding-top: 225px;
         padding-bottom: 225px;
@@ -485,7 +484,7 @@
 }
 
 /*====TREND====*/
-@media (min-width: 360px) and (max-width: 767px) {
+@media (min-width: 320px) and (max-width: 767px) {
     .trend {
         display: flex;
         flex-wrap: wrap;
@@ -966,7 +965,7 @@
 }
 
 .teg__block {
-    max-width: 330px;
+    max-width: 300px;/*Ширина Тег_блока*/
     margin: 0 auto;
 }
 
@@ -993,7 +992,7 @@
 
 .teg__list__link {
     border: 3px solid #f4f3f1;
-    padding: 6px 12px 6px 12px;
+    padding: 6px 10px 6px 10px;
     display: block;
 }
 
@@ -1096,7 +1095,7 @@
     font-weight: bold;
 }
 
-@media (min-width: 360px) and (max-width: 767px) {
+@media (min-width: 320px) and (max-width: 767px) {
     .main__content {
         width: 100%;
         padding-left: 15px;
@@ -1521,7 +1520,7 @@
      background-color: #323232;
  } */
 
-@media (min-width: 360px) and (max-width: 767px) {
+@media (min-width: 320px) and (max-width: 767px) {
     .shop {
         flex-wrap: wrap;
 
@@ -1678,7 +1677,7 @@
     text-align: center;
 }
 
-@media (min-width: 360px) and (max-width: 767px) {
+@media (min-width: 320px) and (max-width: 767px) {
 
     .social-icon_pinterest,
     .social-icon_tumblr {
